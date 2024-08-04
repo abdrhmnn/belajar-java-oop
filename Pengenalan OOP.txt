@@ -1,0 +1,7 @@
+OOP yaitu paradigma dalam menulis kode yang mengacu pada objek dan class
+
+Objek adalah data yang berisikan field/atribut dan method/function/behaviour
+Contohnya: semua tipe data yang primitif (String, Char, Integer, dll)
+
+Class adalah blueprint/cetakan untuk membuat objek, berisikan deklarasi semua fields dan methods yg dimiliki oleh
+objek nya, setiap class itu bisa membuat objek lebih dari satu (tak terhingga)
